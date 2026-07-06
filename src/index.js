@@ -3,5 +3,5 @@ export function greet(name = 'world') {
 }
 
 export function farewell(name = 'world') {
-  return `Goodbye, ${name}!`
+  return `Goodbye, ${String(name).trim()}!`
 }
