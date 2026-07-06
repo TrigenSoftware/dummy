@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/TrigenSoftware/dummy/compare/v2.0.0...v3.0.0) (2026-07-06)
+
+### ⚠ BREAKING CHANGES
+
+* `greet` and `farewell` no longer default to `world` and throw when the name is not provided.
+
+### Features
+
+* require name argument in greetings ([8bef705](https://github.com/TrigenSoftware/dummy/commit/8bef705a118732045f42a38a45ee43c7073946bf))
+
 ## [2.0.0](https://github.com/TrigenSoftware/dummy/compare/v1.1.0...v2.0.0) (2026-07-06)
 
 ### Features
