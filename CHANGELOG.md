@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/TrigenSoftware/dummy/compare/v2.0.0...v2.0.1) (2026-07-06)
+
+### Bug Fixes
+
+* trim farewell name ([4981aca](https://github.com/TrigenSoftware/dummy/commit/4981acaa68343156d50adf1987de998bb1d0590b))
+
 ## [2.0.0](https://github.com/TrigenSoftware/dummy/compare/v1.1.0...v2.0.0) (2026-07-06)
 
 ### Features
